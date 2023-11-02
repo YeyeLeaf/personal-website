@@ -1,0 +1,16 @@
+h2 {
+    color: #3b511e;
+}
+h3 {
+    color: #3e8560;
+    text-decoration: underline;
+}
+
+.flex{
+    display: flex;
+}
+
+body {
+    background-color:darkslategray;
+    user-select: none;
+}

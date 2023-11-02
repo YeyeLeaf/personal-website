@@ -1,0 +1,14 @@
+button {
+    background-color: #042940;
+    color: white;
+    padding: 10px 20px;
+    margin: 3px 5px;
+    border-radius: 9999px;
+    font-size: medium;
+    display: inline;
+    transition: all 0.2s;
+}
+
+button:hover {
+    transform: scale(1.1);
+}

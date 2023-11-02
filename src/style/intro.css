@@ -1,0 +1,25 @@
+.intro {
+    justify-content: space-around;
+    margin: 100px 150px;
+    padding: 50px 50px;
+    border-radius: 50px;
+    background-color: aliceblue;
+    box-shadow: 5px 5px 5px black;
+}
+
+img{
+    border-radius: 20px;
+    transition: all 0.8s;
+}
+
+img:hover{
+    transform: rotateY(360deg);
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    font-size: larger;
+}
